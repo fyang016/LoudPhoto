@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		4D0D66B82540043000736038 /* RecordAudio.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D0D66B72540043000736038 /* RecordAudio.swift */; };
 		4D51720E253E64B200EF2A14 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D51720D253E64B200EF2A14 /* AppDelegate.swift */; };
 		4D517210253E64B200EF2A14 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D51720F253E64B200EF2A14 /* SceneDelegate.swift */; };
 		4D517212253E64B200EF2A14 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D517211253E64B200EF2A14 /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		4D0D66B72540043000736038 /* RecordAudio.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecordAudio.swift; sourceTree = "<group>"; };
 		4D51720A253E64B200EF2A14 /* LoudPhoto.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LoudPhoto.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		4D51720D253E64B200EF2A14 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		4D51720F253E64B200EF2A14 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -59,6 +61,7 @@
 				4D51720D253E64B200EF2A14 /* AppDelegate.swift */,
 				4D51720F253E64B200EF2A14 /* SceneDelegate.swift */,
 				4D517211253E64B200EF2A14 /* ViewController.swift */,
+				4D0D66B72540043000736038 /* RecordAudio.swift */,
 				4D517213253E64B200EF2A14 /* Main.storyboard */,
 				4D517216253E64B300EF2A14 /* Assets.xcassets */,
 				4D517218253E64B300EF2A14 /* LaunchScreen.storyboard */,
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				4D517212253E64B200EF2A14 /* ViewController.swift in Sources */,
+				4D0D66B82540043000736038 /* RecordAudio.swift in Sources */,
 				4D51720E253E64B200EF2A14 /* AppDelegate.swift in Sources */,
 				4D517210253E64B200EF2A14 /* SceneDelegate.swift in Sources */,
 			);
